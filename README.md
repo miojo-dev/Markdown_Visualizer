@@ -1,6 +1,6 @@
 # Markdown Vizualizer
 
-simple project using typescript, making a visualizer/interpreter for markdown files
+simple project using React, making a visualizer/interpreter for markdown files
 
 ---
 ## Production
