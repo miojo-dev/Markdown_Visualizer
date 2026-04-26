@@ -33,7 +33,7 @@ text {
 <text class="crt" x="277.2" y="68" fill="#A664C7" textLength="50.4" lengthAdjust="spacing" style="font-weight:bold;">TSXTSX</text>
 <text class="crt" x="352.8" y="68" fill="#0092F5" textLength="33.6" lengthAdjust="spacing" style="font-weight:bold;">HEAD</text>
 <text class="crt" x="386.4" y="68" fill="#FEFEFE" textLength="8.4" lengthAdjust="spacing" style="font-weight:bold;">:</text>
-<text class="crt" x="403.2" y="68" fill="#d4d4d4" textLength="58.8" lengthAdjust="spacing">08a3197</text>
+<text class="crt" x="403.2" y="68" fill="#d4d4d4" textLength="58.8" lengthAdjust="spacing">c0c9895</text>
 <text class="crt" x="470.4" y="68" fill="#d4d4d4" textLength="50.4" lengthAdjust="spacing">(main,</text>
 <text class="crt" x="529.2" y="68" fill="#d4d4d4" textLength="100.8" lengthAdjust="spacing">origin/main)</text>
 <text class="crt" x="0" y="86" fill="#0092F5" textLength="268.8" lengthAdjust="spacing" style="font-weight:bold;">TSXTSXTSXTSXTSXTSXTSXTSXTSXTSXTS</text>
@@ -89,7 +89,7 @@ text {
 <text class="crt" x="302.4" y="194" fill="#A664C7" textLength="25.2" lengthAdjust="spacing" style="font-weight:bold;">TSX</text>
 <text class="crt" x="352.8" y="194" fill="#0092F5" textLength="58.8" lengthAdjust="spacing" style="font-weight:bold;">Authors</text>
 <text class="crt" x="411.6" y="194" fill="#FEFEFE" textLength="8.4" lengthAdjust="spacing" style="font-weight:bold;">:</text>
-<text class="crt" x="428.4" y="194" fill="#d4d4d4" textLength="25.2" lengthAdjust="spacing">67%</text>
+<text class="crt" x="428.4" y="194" fill="#d4d4d4" textLength="25.2" lengthAdjust="spacing">64%</text>
 <text class="crt" x="462" y="194" fill="#d4d4d4" textLength="33.6" lengthAdjust="spacing">João</text>
 <text class="crt" x="504" y="194" fill="#d4d4d4" textLength="42" lengthAdjust="spacing">Vitor</text>
 <text class="crt" x="554.4" y="194" fill="#d4d4d4" textLength="42" lengthAdjust="spacing">Hobus</text>
@@ -104,9 +104,9 @@ text {
 <text class="crt" x="260.4" y="212" fill="#A664C7" textLength="8.4" lengthAdjust="spacing" style="font-weight:bold;">S</text>
 <text class="crt" x="268.8" y="212" fill="#FFFFFF" textLength="25.2" lengthAdjust="spacing" style="font-weight:bold;">XTS</text>
 <text class="crt" x="294" y="212" fill="#A664C7" textLength="33.6" lengthAdjust="spacing" style="font-weight:bold;">XTSX</text>
-<text class="crt" x="428.4" y="212" fill="#d4d4d4" textLength="25.2" lengthAdjust="spacing">29%</text>
+<text class="crt" x="428.4" y="212" fill="#d4d4d4" textLength="25.2" lengthAdjust="spacing">32%</text>
 <text class="crt" x="462" y="212" fill="#d4d4d4" textLength="159.6" lengthAdjust="spacing">github-actions[bot]</text>
-<text class="crt" x="630" y="212" fill="#d4d4d4" textLength="8.4" lengthAdjust="spacing">6</text>
+<text class="crt" x="630" y="212" fill="#d4d4d4" textLength="8.4" lengthAdjust="spacing">7</text>
 <text class="crt" x="0" y="230" fill="#0092F5" textLength="42" lengthAdjust="spacing" style="font-weight:bold;">TSXTS</text>
 <text class="crt" x="42" y="230" fill="#FFFFFF" textLength="25.2" lengthAdjust="spacing" style="font-weight:bold;">XTS</text>
 <text class="crt" x="67.2" y="230" fill="#0092F5" textLength="58.8" lengthAdjust="spacing" style="font-weight:bold;">XTSXTSX</text>
@@ -157,7 +157,7 @@ text {
 <text class="crt" x="302.4" y="284" fill="#A664C7" textLength="25.2" lengthAdjust="spacing" style="font-weight:bold;">TSX</text>
 <text class="crt" x="352.8" y="284" fill="#0092F5" textLength="58.8" lengthAdjust="spacing" style="font-weight:bold;">Commits</text>
 <text class="crt" x="411.6" y="284" fill="#FEFEFE" textLength="8.4" lengthAdjust="spacing" style="font-weight:bold;">:</text>
-<text class="crt" x="428.4" y="284" fill="#d4d4d4" textLength="16.8" lengthAdjust="spacing">21</text>
+<text class="crt" x="428.4" y="284" fill="#d4d4d4" textLength="16.8" lengthAdjust="spacing">22</text>
 <text class="crt" x="0" y="302" fill="#0092F5" textLength="168" lengthAdjust="spacing" style="font-weight:bold;">TSXTSXTSXTSXTSXTSXTS</text>
 <text class="crt" x="168" y="302" fill="#A664C7" textLength="159.6" lengthAdjust="spacing" style="font-weight:bold;">XTSXTSXTSXTSXTSXTSX</text>
 <text class="crt" x="352.8" y="302" fill="#0092F5" textLength="42" lengthAdjust="spacing" style="font-weight:bold;">Churn</text>
